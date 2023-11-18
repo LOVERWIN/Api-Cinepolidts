@@ -1,0 +1,5 @@
+# Created at 2023-11-17T21:20:00.333
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Intellig Programas\JAVA\CinepoLIDTS\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
